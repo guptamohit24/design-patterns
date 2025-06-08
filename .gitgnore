@@ -1,0 +1,11 @@
+# .gitignore
+*.class
+*.log
+*.jar
+*.war
+*.iml
+target/
+build/
+.idea/
+.vscode/
+/out
